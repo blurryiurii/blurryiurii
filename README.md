@@ -1,36 +1,37 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blurryiurii.blurryiurii/>
-
-<h1 align="center">
+<!-- Title and animated subtitle -->
+<h1>Hi, I'm Iurii Chmykhun!</h1>
+<h1>
   <a href="https://git.io/typing-svg">
-    <img src://readme-typing-svg.herokyapp.com/?font=Righeous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!;I'm Iurii Chmykhun;"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;CS+Student+at+DSU;Electric+Unicycle+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=200" alt="Introduction animation">
 </h1>
 
-<h3 align="center">I'm a Computer Science student at Dakota State University</h3>
+<!-- Bullet point descriptions -->
+I'm experienced in Python, C/C++, and JavaScript.<br/>
+I'm familiar with Docker, GCP/AWS, and deploying Websites.<br/>
+Fun fact about me: I'm an electric unicycle fanatic!
 <br/>
-<div align=center>
-I'm experienced in **Python**, **C/C++**, and **JavaScript**.
-I'm currently a **Sophomore** working on my Bachelor's in **Computer Science** with specialization in **Software Engineering**.
-I'm familiar with **Docker, GCP/AWS, and deploying Websites**.
-Fun fact about me: I'm an electric unicycle fanatic/
-</div>
 
-<div align="center">
- <a href="mailto:ichmykhun@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
- </a>
+<!-- Link badges -->
+<a href="mailto:ichmykhun@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
 <a href="https://linkedin.com/in/iuriic" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://iurii.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://iurii.io" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/blurryiurii/blurryiurii/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
+<!-- Homelab logos -->
+<!-- https://shields.io/docs/static-badges -->
+<!-- https://simpleicons.org/ -->
+<h1>My Homelab! (in progress...)</h1>
+<a href="https://github.com/louislam/uptime-kuma" target="_blank">
+   <img src="https://img.shields.io/badge/Proxmox-e5da87?style=for-the-badge&logo=proxmox" target="_blank" />
+</a>
+<a href="https://github.com/louislam/uptime-kuma" target="_blank">
+   <img src="https://img.shields.io/badge/Uptime%20Kuma-c1e888?style=for-the-badge&logo=uptime-kuma&logoColor=black" target="_blank" />
+</a>
+<!-- Snake contribution animation -->
+<h2>🐍 My Contributions 🐍</h2>
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/blurryiurii/blurryiurii/output/github-contribution-grid-snake.svg" />
