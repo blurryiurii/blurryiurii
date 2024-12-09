@@ -26,13 +26,13 @@ Fun fact about me: I'm an electric unicycle fanatic!
 <!-- https://shields.io/docs/static-badges -->
 <!-- https://simpleicons.org/ -->
 <h1>My Homelab! (in progress...)</h1>
-<a href="https://github.com/louislam/uptime-kuma" target="_blank">
+<a href="https://www.proxmox.com/en" target="_blank">
    <img src="https://img.shields.io/badge/Proxmox-e5da87?style=for-the-badge&logo=proxmox" target="_blank" />
 </a>
 <a href="https://github.com/louislam/uptime-kuma" target="_blank">
    <img src="https://img.shields.io/badge/Uptime%20Kuma-c1e888?style=for-the-badge&logo=uptime-kuma&logoColor=black" target="_blank" />
 </a>
-<a href="https://tailscale.com/" target="_blank">
+<a href="https://tailscale.com" target="_blank">
    <img src="https://img.shields.io/badge/tailscale-21130d?style=for-the-badge&logo=tailscale&logoColor=white" target="_blank" />
 </a>
 <!-- Snake contribution animation -->
