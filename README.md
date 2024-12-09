@@ -2,7 +2,7 @@
 <h1>Hi, I'm Iurii Chmykhun!</h1>
 <h1>
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;CS+Student+at+DSU;Electric+Unicycle+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=200" alt="Introduction animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;CS+Student+at+Dakota+State+University;Electric+Unicycle+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=200" alt="Introduction animation">
 </h1>
 
 <!-- Bullet point descriptions -->
