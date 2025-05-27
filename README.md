@@ -7,7 +7,7 @@
 
 <!-- Bullet point descriptions -->
 I'm a student at DSU, experienced in Python, C/C++, and JavaScript.<br/>
-I'm familiar with Docker, GCP/AWS, and deploying Websites.<br/>
+I'm familiar with Docker, GCP/AWS, and deploying websites.<br/>
 Fun fact about me: I'm an <a href="https://ewheels.com/">electric unicycle</a> fanatic!
 <br/>
 
@@ -36,10 +36,8 @@ Fun fact about me: I'm an <a href="https://ewheels.com/">electric unicycle</a> f
 
 <!-- Homelab logos -->
 <h1>My Homelab!</h1>
-<p>Self-hosted services running on my home server:</p>
+<p>Self-hosted services running on my server:</p>
 
-<!-- Media & Storage -->
-<h3>Media & Storage</h3>
 <a href="https://jellyfin.org" target="_blank">
    <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" />
 </a>
@@ -52,9 +50,6 @@ Fun fact about me: I'm an <a href="https://ewheels.com/">electric unicycle</a> f
 <a href="https://syncthing.net" target="_blank">
    <img src="https://img.shields.io/badge/Syncthing-0891b2?style=for-the-badge&logo=syncthing&logoColor=white" />
 </a>
-
-<!-- Monitoring & AI -->
-<h3>Monitoring & AI</h3>
 <a href="https://github.com/louislam/uptime-kuma" target="_blank">
    <img src="https://img.shields.io/badge/Uptime%20Kuma-c1e888?style=for-the-badge&logo=uptime-kuma&logoColor=black" />
 </a>
@@ -64,10 +59,6 @@ Fun fact about me: I'm an <a href="https://ewheels.com/">electric unicycle</a> f
 <a href="https://ollama.com" target="_blank">
    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </a>
-
-<!-- Activity Graph -->
-<h2>📈 Contribution Activity</h2>
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=blurryiurii&theme=tokyo-night&hide_border=true" />
 
 <!-- Snake contribution animation -->
 <h2>🐍 My Contributions 🐍</h2>
