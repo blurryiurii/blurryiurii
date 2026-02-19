@@ -41,9 +41,6 @@ Fun fact about me: I'm an <a href="https://ewheels.com/">electric unicycle</a> f
 <a href="https://jellyfin.org" target="_blank">
    <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" />
 </a>
-<a href="https://tailscale.com" target="_blank">
-   <img src="https://img.shields.io/badge/Tailscale-21130d?style=for-the-badge&logo=tailscale&logoColor=white" />
-</a>
 <a href="https://immich.app" target="_blank">
    <img src="https://img.shields.io/badge/Immich-4250a4?style=for-the-badge&logo=immich&logoColor=white" />
 </a>
@@ -59,6 +56,7 @@ Fun fact about me: I'm an <a href="https://ewheels.com/">electric unicycle</a> f
 <a href="https://ollama.com" target="_blank">
    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </a>
+<a href="https://github.com/blurryiurii/homelab"> ...And more! </a>
 
 <!-- Snake contribution animation -->
 <h2>🐍 My Contributions 🐍</h2>
